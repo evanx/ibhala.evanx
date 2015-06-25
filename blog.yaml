@@ -4,3 +4,5 @@ description: A blog by @evanxsummers
 logo: 
 cover: img/final12.jpg
 navigation:
+author: Evan Summers
+body_class: default
